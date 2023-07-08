@@ -28,3 +28,24 @@ width: 120px;
     align-items: center;
     flex-direction: row-reverse;
 }
+.opt{
+padding: 30px;
+background-color: red;
+width: 150px;
+height: 130px;
+}
+.opt1{
+background-color: green;
+
+}
+.opt2{
+background-color: blue;
+
+}
+.container2{
+display: flex;
+justify-content: space-around;
+height: 500px;
+align-items: center;
+border: 2px solid gray;
+}
